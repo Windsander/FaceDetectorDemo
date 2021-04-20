@@ -1,0 +1,8 @@
+
+rootProject.name = 'face_detector_demo'
+
+include ':facedetector', ':sample'
+
+def opencvsdk=''
+include ':opencv'
+project(':opencv').projectDir = new File(opencvsdk + 'sdk')
