@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/.iwillow/WorkingSpace/Android-Self/face_detector_demo/facedetector/.cxx/cmake/debug/arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,7 @@
+Executable : /Users/.iwillow/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/.iwillow/WorkingSpace/Android-Self/face_detector_demo/facedetector/.cxx/cmake/debug/x86_64
+face_lib
+jvmArgs : 
+

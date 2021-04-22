@@ -1,0 +1,14 @@
+static int getVersionCodeTimestamp() {
+    Date date = new Date()
+    def formattedDate = date.format('yyyyMMdd')
+    return Integer.valueOf(formattedDate).intValue()
+}
+
+ext {
+    facedetector = [
+            facedetectorVersionCode: 1903261434,
+            facedetectorVersionName: '1.0.0.0'
+    ]
+
+}
+
